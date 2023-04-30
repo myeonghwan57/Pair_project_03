@@ -2,7 +2,7 @@
 
 > 남자의 자격 팀의 취미를 위한 A to Z 플랫폼
 
-![image-20221224235916404](README.assets/image-20221224235916404.png)
+
 
 <br/>
 
@@ -67,7 +67,6 @@
 - 카테고리별 태그선택(직접입력)이 가능하며, 제목, 날짜 등을 입력받습니다.
 - 모임 장소의 경우 온라인과 오프라인으로 나뉘며, 오프라인의 경우 Kakao API를 사용해 검색결과를 출력하였습니다.
 
-![hobby_create](README.assets/hobby_create.gif)
 
 ---
 
@@ -82,7 +81,6 @@
 - 모임의 장소가 오프라인일 경우 지도 API를 사용하여 지도에 상세위치를 구현했습니다.
 - 댓글의 경우 `비동기`로 답글과 좋아요 기능을 추가했으며, 디테일페이지의 `UI/UX`를 크게 해치지 않도록 일부 댓글만 보여주며, 전체 댓글은 아이콘 클릭 시 offcanvas 형태로 나타나도록 구현하였습니다.
 
-![image-20221224172646584](README.assets/image-20221224172646584.png)
 
 ---
 
@@ -112,11 +110,6 @@
 - 메시지 기능
   - 쪽지
 
-![img](README.assets/hobby_create-16718934353387.gif)
-
-![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9bb12d52-d6cb-4854-ae04-1e653009781c/accounts_detail.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221224T145301Z&X-Amz-Expires=86400&X-Amz-Signature=57a18ccfc05f2db429c05b76560339561da57159a47041c9751f50c2cb6a12d0&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22accounts_detail.png%22&x-id=GetObject)
-
-![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/edacf6c2-688c-4dea-8b8d-7d201f2a3ed6/message.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221224T145229Z&X-Amz-Expires=86400&X-Amz-Signature=a5841b023892f86ec3f96d5648c0eed77558fb94e85fa756e31ab35857a4ffa4&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22message.png%22&x-id=GetObject)
 
 ## 4. Products
 
@@ -142,11 +135,7 @@
   - summernote로 작성한 내용을 safe 태그로 표시
   - 댓글, 대댓글, 댓글 좋아요 기능 (비동기 처리)
 
-![image-20221224235719539](README.assets/image-20221224235719539.png)
 
-![image-20221224235741399](README.assets/image-20221224235741399.png)
-
-![image-20221224235804340](README.assets/image-20221224235804340.png)
 
 ## 5.Notes
 
@@ -165,7 +154,7 @@
   - 휴지통에서는 쪽지를 다시 되돌리거나 삭제할 수 있음 (상대방이 보냈던 쪽지 정보는 삭제되지 않음)
   - 쪽지에는 보낸 사람의 닉네임, 받은 사람의 닉네임, 제목, 내용, 송신 날짜, 수신 여부 정보가 있음
 
-![image-20221224235841457](README.assets/image-20221224235841457.png)
+
 
 <br />
 
